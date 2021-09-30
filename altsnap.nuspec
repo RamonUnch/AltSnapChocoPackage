@@ -17,7 +17,7 @@ This behavior already exists in Linux and other operating systems, and AltSnap w
     </description>
     <projectUrl>https://github.com/RamonUnch/AltSnap/wiki</projectUrl>
     <projectSourceUrl>https://github.com/RamonUnch/AltSnap</projectSourceUrl>
-    <iconUrl>https://rawcdn.githack.com/RamonUnch/AltSnapChocoPackage/d0ca6170a9373be4a8c846ac30f8ebebcd1389ab/AltSnap.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RamonUnch/AltDragChocoPackage/d0ca6170a9373be4a8c846ac30f8ebebcd1389ab/AltDrag.png</iconUrl>
     <packageSourceUrl> https://github.com/RamonUnch/AltSnapChocoPackage </packageSourceUrl>
     <tags>altsnap admin drag windows</tags>
     <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
