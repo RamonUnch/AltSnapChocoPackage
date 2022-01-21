@@ -2,8 +2,8 @@
 
 $packageName = 'altsnap'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/RamonUnch/AltSnap/releases/download/1.48/AltSnap1.48-inst.exe'
-$url64      = 'https://github.com/RamonUnch/AltSnap/releases/download/1.48/AltSnap1.48-x64-inst.exe'
+$url        = 'https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-inst.exe'
+$url64      = 'https://github.com/RamonUnch/AltSnap/releases/download/1.49/AltSnap1.49-x64-inst.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -12,9 +12,9 @@ $packageArgs = @{
 
   url           = $url
   url64bit      = $url64
-  checksum      = 'e4cde3f0c195fd072257b5c86906e41d92d2a2d6e13738a5fc2af54bd8720600'
+  checksum      = 'd6a1c08235eda3df79425407718c94373e63352074ef7262988eee8ba5caa331'
   checksumType  = 'sha256'
-  checksum64    = '61020b6d27e037c3177575bf0da47cfaf1fd60a245f461bcfe96281e356fb759'
+  checksum64    = 'c0c208b8b72c0b344392043c637c1569d9db6d8b904b01d49a34e1dc1e8cbc74'
   checksumType64= 'sha256'
 
   silentArgs   = '/S'
