@@ -4,7 +4,7 @@
   <metadata>
     <id>altsnap</id>
     <title>AltSnap</title>
-    <version>1.49</version>
+    <version>1.52</version>
     <authors>Raymond Gillibert</authors>
     <owners>RamonUnch</owners>
     <summary>Easily drag windows when pressing the alt key</summary>
@@ -17,8 +17,8 @@ This behavior already exists in Linux and other operating systems, and AltSnap w
     </description>
     <projectUrl>https://github.com/RamonUnch/AltSnap/wiki</projectUrl>
     <projectSourceUrl>https://github.com/RamonUnch/AltSnap</projectSourceUrl>
-    <iconUrl>https://rawcdn.githack.com/RamonUnch/AltDragChocoPackage/d0ca6170a9373be4a8c846ac30f8ebebcd1389ab/AltDrag.png</iconUrl>
-    <packageSourceUrl> https://github.com/RamonUnch/AltSnapChocoPackage </packageSourceUrl>
+    <iconUrl>https://rawcdn.githack.com/RamonUnch/AltSnapChocoPackage/25fddb0a528d3768a4158cc4ca037a52bc404a07/AltSnap.png</iconUrl>
+    <packageSourceUrl>https://github.com/RamonUnch/AltSnapChocoPackage</packageSourceUrl>
     <tags>altsnap admin drag windows</tags>
     <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
