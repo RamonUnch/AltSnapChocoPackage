@@ -4,7 +4,7 @@
   <metadata>
     <id>altsnap</id>
     <title>AltSnap</title>
-    <version>1.52</version>
+    <version>1.53</version>
     <authors>Raymond Gillibert</authors>
     <owners>RamonUnch</owners>
     <summary>Easily drag windows when pressing the alt key</summary>
